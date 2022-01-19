@@ -41,3 +41,5 @@ useRcausal2020::install_workshop("path/to/your/computer")
 
 Replace “path/to/your/computer” with where on your computer you want the
 workshop installed.
+
+Vid: https://www.youtube.com/watch?v=n8c-UK19hbA&t=1318s
